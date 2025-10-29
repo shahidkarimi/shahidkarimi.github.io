@@ -42,7 +42,7 @@ Skills: Python, Data Engineering, ETL, Web Crawling, DevOps, Scrapy, Data Scienc
 Skills: Web Crawling, Scrapy, Python, Data Extraction, Data Engineering, Data Pipelines
 
 ### Software Engineer, Cloudways
-*March 2021 - Feb 2020*
+*March 2018 - Feb 2020*
 
 - Developed and maintained highly available microservices, ensuring robust performance for high-volume web applications.  
 - Designed scalable backend architectures, incorporating modern industry trends to support mission-critical operations.  
