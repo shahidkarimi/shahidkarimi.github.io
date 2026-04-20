@@ -83,8 +83,17 @@ Skills: PHP, Yii, Laravel, Angular, Node.js, D3.js, MySQL, AWS, DigitalOcean, Az
 
 ## Projects
 
-### Hellogram.io
+### Hellogram.ai
 a groundbreaking AI-powered resurrection platform that allows people to reconnect with their departed loved ones in the most human way possible.
+
+### Roomosys.com
+Elegant Hotel management System built with Python 3.12, ReactJS, Supabase and Golang, aws.
+
+### Bewhy.app
+Healthcare SaaS build with PHP/Laravel, Postgresql, Vuejs, Microsoft Azure
+
+### Zoomkar.com
+Realestate and Property Management Platform. Built with Python, reactJS, aws, Docker
 
 ### Convert a monolith to microservices 
 Converted high traffic monilth application to scalable microservice archtecture with zero downtime.
