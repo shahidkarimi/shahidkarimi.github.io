@@ -1,6 +1,6 @@
 # Shahid Hussain Karimi
 Software Engineer
-| [karimi.shahid@gmail.com](mailto:karimi.shahid@gmail.com)
+| [shahid.karimi@gmx.de](mailto:shahid.karimi@gmx.de)
 | [+49 163 4733581](tel:+491634733681)
 | [linkedin.com/in/shahidkarimi](https://linkedin.com/in/shahidkarimi)
 
