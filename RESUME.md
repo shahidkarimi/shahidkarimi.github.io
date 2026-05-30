@@ -5,7 +5,7 @@ Software Engineer
 | [linkedin.com/in/shahidkarimi](https://linkedin.com/in/shahidkarimi)
 
 ## About me
-Experienced full-stack developer with over 10 years' expertise in Python, PHP, and Laravel, Golang, specialising in backend development and API creation. Skilled in cloud platforms like AWS and designing innovative AI solutions. Proven ability to lead teams and optimise complex web services. Committed to delivering high-quality code. Eager to drive Digital Trace's success by developing cutting-edge solutions for digital marketing campaign optimisation.
+Senior Software Engineer with 12+ years designing and scaling distributed, high-availability backend systems across cloud infrastructure (AWS, Azure). Proven track record delivering production-grade APIs, microservices, and data pipelines. Practices AI-assisted engineering as a core workflow — leveraging LLMs to accelerate delivery, improve code quality, and solve complex architectural challenges faster. Experienced across the full backend lifecycle — architecture, performance optimisation, CI/CD, and engineering quality. Comfortable leading teams and driving technical decisions in fast-moving environments.
 
 ## Work Experience
 ### Software Engineer - Co-founder, Marengo Knoll, Inc.
