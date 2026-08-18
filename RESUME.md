@@ -1,81 +1,76 @@
-# Shahid Hussain Karimi
-Software Engineer
-| [shahid.karimi@gmx.de](mailto:shahid.karimi@gmx.de)
-| [+49 163 4733581](tel:+491634733681)
+# Shahid Karimi
+Senior Backend Architect | Distributed Systems & High-Throughput Data Platforms
+| [karimi.shahid@gmail.com](mailto:karimi.shahid@gmail.com)
+| [+49 163 4733581](tel:+491634733581)
 | [linkedin.com/in/shahidkarimi](https://linkedin.com/in/shahidkarimi)
+| Germany
 
 ## About me
-Senior Software Engineer with 12+ years designing and scaling distributed, high-availability backend systems across cloud infrastructure (AWS, Azure). Proven track record delivering production-grade APIs, microservices, and data pipelines. Practices AI-assisted engineering as a core workflow — leveraging LLMs to accelerate delivery, improve code quality, and solve complex architectural challenges faster. Experienced across the full backend lifecycle — architecture, performance optimisation, CI/CD, and engineering quality. Comfortable leading teams and driving technical decisions in fast-moving environments.
+I build backend systems that stay fast and reliable under real load. Over 12+ years I have engineered high-throughput data pipelines and distributed crawling infrastructure at Zyte, scaled backend services for the Cloudways cloud-hosting platform, and re-architected core request paths as Software Architect at Marengo Knoll (Hellogram.AI) — cutting response latency by 80% through systematic profiling and PostgreSQL optimisation. Deep foundations in Python and PHP/Laravel services, PostgreSQL/MySQL/Redis, message queues, Docker, AWS and CI/CD, with a strong bias toward clean architecture, testability and operational ownership.
+
+## Selected Impact
+
+- **80% latency reduction** — re-architected core request paths and optimised PostgreSQL under production load at Marengo Knoll.
+- **High-volume data delivery** — built and operated distributed crawling and extraction pipelines at Zyte powering dependable data feeds for major retailers.
+- **Platform scale** — developed and maintained highly available backend services and microservices for the Cloudways cloud-hosting platform.
+- **Legacy modernisation** — repeatedly turned untested legacy codebases into maintainable, testable systems using characterisation tests and the strangler-fig pattern.
 
 ## Work Experience
-### Software Engineer - Co-founder, Marengo Knoll, Inc.
+### Software Architect, Marengo Knoll, Inc. (Hellogram.AI)
 *March 2023 - September 2025*
 
-- Co-founded Hellogram.ai, an innovative AI platform enabling users to create lifelike digital replicas of deceased loved ones for real-time, emotionally resonant interactions using LLMs, OpenAI’s ChatGPT, voice recognition, and voice cloning technologies.
-- Architected a scalable cloud infrastructure leveraging Kubernetes and AWS, ensuring high availability and performance for real-time AI interactions.
-- Led integration of AI models and voice technologies, optimizing system performance to deliver seamless, human-like conversational experiences.
-- Directed engineering strategy and technical roadmap, overseeing the full software development lifecycle from ideation to deployment.
-- Collaborated with cross-functional teams to align product vision with technical execution, driving innovation in emotional AI applications.
-- Enhanced platform scalability, supporting a growing user base while reducing response time by 80% for low-latency interactions.
+- Software Architect for Hellogram.AI, a real-time conversational AI platform combining LLMs, voice recognition and voice-cloning technologies.
+- Designed and scaled cloud-native backend services and APIs for data-intensive, low-latency production workloads.
+- Re-architected core request paths and optimised PostgreSQL under load, cutting response latency by 80%.
+- Led integration of AI, LLM and voice-processing pipelines with reliable async processing.
+- Owned production investigation, deployments and technical documentation, strengthening release confidence.
 
-### Independent Consultant, Self Empoloyed
-*Aug 2021 - July 2025*
+### Independent Software Consultant, Self-Employed
+*October 2022 - February 2023*
 
-- Designed scalable system architectures for startups, ensuring reliability, cost-efficiency, and alignment with business objectives.
-- Optimized cloud infrastructure on AWS, Azure, and DigitalOcean, enhancing performance and security for high-availability environments.
-- Implemented robust CI/CD pipelines and operational workflows, streamlining development and deployment for seamless delivery.
-- Led recruitment of technical teams, hiring skilled developers and engineers aligned with company culture and project goals.
-- Conducted thorough code reviews, enforcing best practices and coding standards to ensure high-quality, maintainable codebases.
-- Developed full-stack applications and APIs, delivering intuitive frontends and robust backends to support business growth.
-Skills: Python, Data Engineering, ETL, Web Crawling, DevOps, Scrapy, Data Science, Data Mining, Linux, Reverse Engineering
-
+- Delivered Python and PHP/Laravel backend services, REST APIs and full-stack applications for international clients.
+- Designed scalable deployments on AWS, Azure and DigitalOcean with Docker and CI/CD pipelines.
+- Improved performance, reliability and code quality through pragmatic architecture and testing.
 
 ### Python Developer | Crawl Engineer, Zyte Data Ltd.
-*June 2021 - September 2022*
+*July 2021 - September 2022*
 
-- Engineered high-performance web crawlers at Zyte, powering data pipelines for major retailers like Amazon, Walmart, and Ocado.
-- Developed and maintained production-grade Scrapy spiders, extracting structured data from complex retail websites with high reliability.
-- Enhanced Scrapy framework’s performance, stability, and extensibility, optimizing it for large-scale web scraping applications.
-- Collaborated with data analysts and product teams to deliver custom data solutions, ensuring high data quality through robust validation and cleansing.
-- Resolved scraping challenges by adapting to site changes and anti-bot measures, maintaining uptime and data integrity.
-- Drove innovation in Zyte’s scraping infrastructure by staying current with industry trends and emerging technologies.
-Skills: Web Crawling, Scrapy, Python, Data Extraction, Data Engineering, Data Pipelines
+- Engineered high-performance distributed web crawlers powering data pipelines for major retailers.
+- Developed and maintained production-grade Scrapy spiders extracting structured data from complex websites with high reliability.
+- Modernised legacy codebases to improve testability, maintainability and confidence in production changes.
+- Solved complex anti-bot, extraction and website-change problems through systematic root-cause analysis.
 
 ### Software Engineer, Cloudways
-*March 2018 - Feb 2020*
+*March 2018 - February 2020*
 
-- Developed and maintained highly available microservices, ensuring robust performance for high-volume web applications.  
-- Designed scalable backend architectures, incorporating modern industry trends to support mission-critical operations.  
-- Architected microservices for server provisioning and orchestration, enhancing system reliability and efficiency.  
-- Wrote efficient, high-quality code in PHP/Laravel, JavaScript, and Python, adhering to best practices and coding standards.  
-- Utilized shell scripting and Ansible to automate and supervise background engineering tasks, optimizing high-volume workloads.  
-- Leveraged tools including Laravel, Python, MySQL, Redis, Node.js, Linux, and Bash to build and maintain performant systems.  
+- Developed and maintained highly available backend services and microservices for a managed cloud-hosting platform.
+- Architected microservices for server provisioning and orchestration, enhancing system reliability and efficiency.
+- Improved production resilience using MySQL, Redis, AWS, Linux, queues and deployment automation.
+- Refactored large codebases to reduce technical debt and improve maintainability across platform delivery.
 
-Skills: PHP, Laravel, JavaScript, Python, MySQL, Redis, Node.js, Linux, Bash, Ansible, Microservices, Backend Development
-
-### Software Engineer, Thumbsol
+### Software Engineer, Thumbsol (now Arrivy)
 *March 2013 - July 2017*
 
-- Designed and deployed web services using Yii and Laravel frameworks, delivering scalable and efficient backend solutions.  
-- Optimized databases for high-traffic web applications, enhancing performance and reliability.  
-- Implemented advanced search and machine learning algorithms to support diverse application functionalities.  
-- Developed front-end components using Angular, creating intuitive and responsive user interfaces.  
-- Built real-time applications with Node.js and Angular, ensuring seamless user experiences.  
-- Created data visualizations using D3.js and managed AWS, DigitalOcean, and Azure cloud servers to ensure secure, high-performance web services.  
-
-Skills: PHP, Yii, Laravel, Angular, Node.js, D3.js, MySQL, AWS, DigitalOcean, Azure, Machine Learning, Data Visualization
+- Designed and deployed web services with Laravel and Yii, delivering scalable and efficient backend solutions.
+- Optimised databases for high-traffic web applications, enhancing performance and reliability.
+- Built search, real-time and responsive product features across PHP, JavaScript and Node.js.
+- Owned testing, debugging and production releases, improving long-term stability.
 
 ## Education
 
-### Bachelor of Computer Science  
-*2006 - 2011*
+### M.Sc. Data Science, Freie Universität Berlin
+*Enrolled — studies begin October 2026*
+
+### Bachelor of Computer Science, Karakoram International University
+*2005 - 2011* — ZAB-recognised in Germany
 
 ## Skills
 
-- Programing Language: Python, SQL, PHP, Golang, JavaScript
-- Database: MySql, PostgreSQL, MSSQL, NoSQL
-- Front-end: VueJS/React
-- Others: Linux, CI/CD, Docker, AWS, Azure, Microservices, Redis, Elasticsearch, Laravel, FastAPI
+- Backend: Python, PHP 7/8, Laravel, Symfony, FastAPI, REST APIs, Microservices
+- Data & Storage: PostgreSQL, MySQL, Redis, Elasticsearch, ETL, Data Pipelines
+- Distributed Systems: Queues, Async Processing, Caching, Scrapy, High-Throughput Crawling
+- Cloud & Delivery: AWS, Azure, Docker, Linux, Nginx, CI/CD
+- Frontend: Vue.js, React, JavaScript/TypeScript
 
 ## Certifications
 
@@ -84,27 +79,27 @@ Skills: PHP, Yii, Laravel, Angular, Node.js, D3.js, MySQL, AWS, DigitalOcean, Az
 ## Projects
 
 ### Hellogram.ai
-a groundbreaking AI-powered resurrection platform that allows people to reconnect with their departed loved ones in the most human way possible.
+Real-time conversational AI platform enabling lifelike voice interactions with digital personas, built on LLMs, voice recognition and voice-cloning pipelines.
 
 ### Roomosys.com
-Elegant Hotel management System built with Python 3.12, ReactJS, Supabase and Golang, aws.
+Hotel management system built with Python 3.12, ReactJS, Supabase, Golang and AWS.
 
 ### Bewhy.app
-Healthcare SaaS build with PHP/Laravel, Postgresql, Vuejs, Microsoft Azure
+Healthcare SaaS built with PHP/Laravel, PostgreSQL, Vue.js and Microsoft Azure.
 
 ### Zoomkar.com
-Realestate and Property Management Platform. Built with Python, reactJS, aws, Docker
+Real-estate and property management platform built with Python, ReactJS, AWS and Docker.
 
-### Convert a monolith to microservices 
-Converted high traffic monilth application to scalable microservice archtecture with zero downtime.
+### Monolith to Microservices Migration
+Converted a high-traffic monolith into a scalable microservice architecture with zero downtime.
 
 ## Languages
 
 - English: Fluent
-- German: Bigginer
-- Hindi: Fluent
+- German: A2, actively learning
 - Urdu: Fluent
-- Balti (Tibatain): Native
+- Hindi: Fluent
+- Balti (Tibetan): Native
 
 ## Interests
 
