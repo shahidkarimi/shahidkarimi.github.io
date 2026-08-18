@@ -28,7 +28,6 @@ def pre_render():
         keywords = ', '.join(filter(None, [secondary_email, custom_domain, DEFAULT_TEXT_VAR]))
         development_profile = {
             "website": {
-                "site-url": custom_domain,
                 "page-footer": {
                     "center": [
                         {
@@ -54,6 +53,8 @@ def pre_render():
                 }
             }
         }
+        if custom_domain:
+            development_profile["website"]["site-url"] = custom_domain
         if google_analytics:
             development_profile["website"]["google-analytics"] = google_analytics
         yaml.dump(development_profile, yaml_file, default_flow_style=False, encoding='utf-8')
